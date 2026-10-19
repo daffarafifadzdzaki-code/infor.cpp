@@ -9,7 +9,7 @@ q = "SMA Negeri 1 Kalianda"
 
 print("================================")
 print("Biodata Daffa")
-
+print("================================")
 print("Nama saya adalah         ;", x)
 print("Saya lahir pada tanggal  ;", c)
 print("Saya berjenis kelamin    ;", b)
